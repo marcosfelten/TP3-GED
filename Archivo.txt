@@ -1,0 +1,1 @@
+git commit -m "Ajuste - #6 Se implemeto la funcionalidad del registro de nuevos socios"
